@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "task-managing-application",
+    "id2": "task-managing-application"
+  },
+  "targets": {}
+}
